@@ -1,0 +1,19 @@
+# Local Python environment and caches
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.matplotlib_cache/
+
+# Large source dataset (download from Kaggle using the README instructions)
+data/raw/
+data/json/
+data/*.zip
+data/*.csv
+data/*.json
+
+# Operating-system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
